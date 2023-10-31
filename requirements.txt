@@ -1,0 +1,3 @@
+quickjs
+curl_cffi
+disnake
